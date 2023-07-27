@@ -11,8 +11,8 @@
 - <b> R </b>
   - []()</b>
 
-
 <h3> 👨‍💻 About me: </h3>
+
 - 🔭 I’m currently trying to becoming a data analyst. 
 - 🌱 I’m currently learning SQL, Tableau. R, and Phyton. 
 - 💬 Ask me about anything; I am am open book.
