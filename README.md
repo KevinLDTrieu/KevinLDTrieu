@@ -12,9 +12,9 @@
   - []()</b>
 
 
-
+<h3>👨‍💻 About me:</h3>
 - 🔭 I’m currently trying to becoming a data analyst. 
 - 🌱 I’m currently learning SQL, Tableau. R, and Phyton. 
 - 💬 Ask me about anything; I am am open book.
-- ⚡ Fun fact: I like rock climbing, parkour, Krav Maga, and Billiards.
+- ⚡ Fun fact: I like rock climbing, parkour, Krav Maga, and billiards.
 - 🍜 My favorite food is summer rolls.  
